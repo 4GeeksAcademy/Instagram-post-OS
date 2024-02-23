@@ -1,0 +1,66 @@
+.instagrampost {
+    background: black;
+}
+
+.post-header {
+    background-color: white;
+}
+
+.post {
+    background: white;
+	width: 500px;
+	height: 500px;
+	margin-top: 30px;
+    margin-left: 500px;
+}
+.post-body {
+    width: 500px;
+	height: 350px;
+    margin: auto;
+}
+.post-icons {
+    display: flex;
+}
+.post-icons i {
+    margin: 5px;
+}
+
+
+.post-body img {
+        width: 500px;
+        height: 350px;
+        margin: auto;
+}
+
+
+
+.Rigo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+.headericon {
+    display: flex;
+    
+}
+.icon {
+    margin-top: 30px;
+    font-size: 50px;
+
+}
+.heading h1 {
+    margin-bottom: 0px;
+   
+    
+}
+.heading p {
+    margin-top: 0px;
+}
+.icon2 {
+    margin-left: 320px;
+    font-size: 30px;
+}
+.last-icon {
+    margin-left: 400px;
+}
